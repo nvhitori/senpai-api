@@ -1,24 +1,24 @@
 
-![APRILIYA-API](https://telegra.ph/file/c793578cfabf67d292dd0.png)
-# APRILIYA - API's
+![Senpai-RestAPI](https://telegra.ph/file/77f5707606b04dda26e01.jpg)
+# SENP4I - API's
 <p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/LoliKillers/Apriliya-Api?style=flat&logo=github&color=yellow" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LoliKillers/Apriliya-Api" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/nvsenpai/Senpai-RestAPI?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/nvsenpai/Senpai-RestAPI" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LoliKillers/Apriliya-Api" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LoliKillers/Apriliya-Api?style=flat&logo=github" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LoliKillers/Apriliya-Api?color=success" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LoliKillers/Apriliya-Api?style=flat&logo=github&color=red" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LoliKillers/Apriliya-Api?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/nvsenpai/Senpai-RestAPI" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/nvsenpai/Senpai-RestAPI?style=flat&logo=github" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/nvsenpai/Senpai-RestAPI?color=success" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/nvsenpai/Senpai-RestAPI?style=flat&logo=github&color=red" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/nvsenpai/Senpai-RestAPI?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LoliKillers/Apriliya-Api" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LoliKillers/Apriliya-Api" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/LoliKillers/Apriliya-Api?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/nvsenpai/Senpai-RestAPI" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/nvsenpai/Senpai-RestAPI?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="" alt="LoliKillers"> <img src="https://img.shields.io/badge/built%20by-LoliKillers-blue" /> </a>
-<a href="https://github.com/LoliKillers/Apriliya-Api/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
+<a href="" alt="nvsenpai"> <img src="https://img.shields.io/badge/built%20by-nvsenpai-blue" /> </a>
+<a href="https://github.com/nvsenpai/Senpai-RestAPI/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
@@ -59,8 +59,8 @@ apt install git -y
 
 ```shell
 npm install --global nodemon
-git clone https://github.com/LoliKillers/Apriliya-Api
-cd Apriliya-Api
+git clone https://github.com/nvsenpai/Senpai-RestAPI
+cd Senpai-RestAPI
 npm install
 npm start
 ```
@@ -70,8 +70,8 @@ Open : [http://localhost:8080](http://localhost:8080)
 ```shell
 npm install --global heroku
 heroku login
-git clone https://github.com/LoliKillers/Apriliya-Api
-cd Apriliya-Api
+git clone https://github.com/nvsenpai/Senpai-RestAPI
+cd Senpai-RestAPI
 hroku git:remote -a YOUR_APP_NAME_IN_HEROKU
 git add .
 git commit -m "Make It Butter"
@@ -80,7 +80,7 @@ git push heroku master
 
 #### Or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LoliKillers/Apriliya-Api)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nvsenpai/Senpai-RestAPI)
 
 Open : [https://APP_NAME.herokuapp.com](https://APP_NAME.herokuapp.com)
 Demo : [https://april-api.herokuapp.com](https://april-api.herokuapp.com)
