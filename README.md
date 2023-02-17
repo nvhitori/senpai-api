@@ -101,5 +101,5 @@ Demo : [https://apisenpai.vercel.app](https://april-api.herokuapp.com)
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LoliKillers"><img src="https://avatars.githubusercontent.com/u/80396688?v=4?s=100" width="100px;" alt="Lolii Kilers"/><br /><sub><b>Lolii Kilers</b></sub></a><br /><a href="https://github.com/nvsenpai/senpai-api/commits?author=LoliKilers" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nvsenpai"><img src="https://avatars.githubusercontent.com/u/53950128?v=4?s=100" width="100px;" alt="V4LL"/><br /><sub><b>V4LL</b></sub></a><br /><a href="https://github.com/nvsenpai/senpai-api/commits?author=nvsenpai" title="Code">💻</a> <a href="#ideas-nvsenpai" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nvsenpai"><img src="https://avatars.githubusercontent.com/u/125589992?v=4?s=100" width="100px;" alt="V4LL"/><br /><sub><b>V4LL</b></sub></a><br /><a href="https://github.com/nvsenpai/senpai-api/commits?author=nvsenpai" title="Code">💻</a> <a href="#ideas-nvsenpai" title="Ideas, Planning, & Feedback">🤔</a></td>
 
